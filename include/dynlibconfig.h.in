@@ -1,0 +1,3 @@
+#define DYNLIB_VERSION_MAJOR @example-dynlib_VERSION_MAJOR@
+#define DYNLIB_VERSION_MINOR @example-dynlib_VERSION_MINOR@
+#define DYNLIB_VERSION_PATCH @example-dynlib_VERSION_PATCH@
